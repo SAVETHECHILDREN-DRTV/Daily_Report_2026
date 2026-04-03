@@ -50,20 +50,3 @@ drtv-dashboard/
 | 정기금액 | 정기후원 금액 |
 
 ---
-
-## 로컬에서 직접 실행하는 방법 (선택사항)
-
-Python이 설치된 경우, 직접 스크립트를 실행할 수 있습니다.
-
-```bash
-python update_dashboard.py
-```
-
----
-
-## GitHub Pages 설정
-
-1. 레포 → **Settings → Pages**
-2. Source: **Deploy from a branch**
-3. Branch: **main** / `/(root)`
-4. Save → URL 생성: `https://[아이디].github.io/drtv-dashboard`
